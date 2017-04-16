@@ -1,2 +1,3 @@
 name: Jie Ren, TU Delft
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
